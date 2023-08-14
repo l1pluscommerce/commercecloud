@@ -266,20 +266,8 @@
 			 },
 			 { 
 				"key":"storefrontContextRoot",
-				"value":""
-			 },
-			 { 
-				"key":"xss.filter.header.X-Frame-Options",
-				"value":""
-			 },
-			 { 
-				"key":"xyformsservices.webroot.override",
-				"value":"true"
-			 },
-			 { 
-				"key":"xyformsservices.webroot.path",
-				"value":""
-			 }
+				"value":"/accstorefront"
+			 } 
 		  ],
 		  "webapps":[ 
 			 { 
@@ -293,18 +281,6 @@
 			 { 
 				"name":"acceleratorservices",
 				"contextPath":"/acceleratorservices"
-			 },
-			 { 
-				"name":"hac",
-				"contextPath":"/hac"
-			 },
-			 { 
-				"name":"orbeonweb",
-				"contextPath":"/web-orbeon"
-			 },
-			 { 
-				"name":"xyformsweb",
-				"contextPath":"/xyformsweb"
 			 }
 		  ]
 	   },
